@@ -4,4 +4,4 @@ NPM     : 2106750452
 
 Kelas   : D
 
-Hobi    : Musik 
+Hobi    : Musik Kantin 
